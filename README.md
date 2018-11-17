@@ -1,4 +1,5 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/niksterg/pyTOV/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/niksterg/pyTOVpp/master)
+
 
 [(view in Nbviewer)](http://nbviewer.jupyter.org/github/niksterg/pyTOVpp/blob/master/TOV-pp.ipynb?flush_cache=true)
 
