@@ -9,7 +9,7 @@
 
 pyTOVpp computes a nonrotating relativistic star obeying a piecewise polytropic equation of state
 
-Data for a convergence study is included at the and, showing near 4th-order convergence to machine accuracy
+Data for a convergence study is included at the end, showing near 4th-order convergence to machine accuracy
 
 #### License
 
