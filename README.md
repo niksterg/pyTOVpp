@@ -3,6 +3,8 @@
 
 [(view in Nbviewer)](http://nbviewer.jupyter.org/github/niksterg/pyTOVpp/blob/master/TOV-pp.ipynb?flush_cache=true)
 
+[![Nbviewer](http://nbviewer.jupyter.org/github/niksterg/pyTOVpp/blob/master/TOV-pp.ipynb?flush_cache=true)
+
 # pyTOVpp
 
 #### pyTOVpp Notebook by N. Stergioulas on Tolman-Oppenheimer-Volkoff solutions with piecewise polytropic EOS
